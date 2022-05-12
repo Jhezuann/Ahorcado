@@ -1,0 +1,1 @@
+palabras = ["Backend", "Frontend", "Dessarrollador", "Python", "Django", "CSS", "HTML", "java", "postgre", "linux", "C++", "Computador", "teclado", "mouse", "Diseñador"]
